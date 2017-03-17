@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-s": "synesthete:toggle"
+    "alt-s": "synesthete:toggle"
   }
 }

@@ -2,7 +2,7 @@
   "name": "synesthete",
   "main": "./lib/synesthete",
   "version": "0.0.1",
-  "description": "Highlight unique words in arbitrary colors",
+  "description": "Alt-S to Highlight unique words in arbitrary colors",
   "keywords": [
     "weird",
     "highlighting",
