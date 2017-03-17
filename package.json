@@ -12,7 +12,6 @@
   "activationCommands": {
     "atom-workspace": "synesthete:toggle"
   },
-  "repository": "https://github.com/atom/synesthete",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
