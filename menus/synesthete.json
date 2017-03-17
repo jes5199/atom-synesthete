@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle synesthete",
+        "command": "synesthete:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "synesthete",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "synesthete:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

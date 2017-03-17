@@ -1,0 +1,14 @@
+'name': 'synesthete'
+'scopeName': 'synesthete'
+'fileTypes': []
+'patterns': [
+  {
+    'match': '(\\w+)'
+    'name': 'synesthete.synesthete-$1'
+  }
+  {
+    'match': '[\\[\\]\\(\\)\\{\\}]'
+    'name': 'synesthete-brackets'
+  }
+]
+

@@ -1,0 +1,21 @@
+{
+  "name": "synesthete",
+  "main": "./lib/synesthete",
+  "version": "0.0.1",
+  "description": "Highlight unique words in arbitrary colors",
+  "keywords": [
+    "weird",
+    "highlighting",
+    "spelling"
+  ],
+  "activationCommands": {
+    "atom-workspace": "synesthete:toggle"
+  },
+  "repository": "https://github.com/atom/synesthete",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
