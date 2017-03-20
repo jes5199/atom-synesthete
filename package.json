@@ -2,7 +2,7 @@
   "name": "synesthete",
   "main": "./lib/synesthete",
   "repository": "https://github.com/jes5199/atom-synesthete",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Alt-S to Highlight unique words in arbitrary colors",
   "keywords": [
     "weird",
