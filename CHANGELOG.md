@@ -1,3 +1,6 @@
+## 0.0.5
+* Also color Greek unicode letters because why not. συναισθησία!
+
 ## 0.0.4
 * High constrast background under color colors
 
