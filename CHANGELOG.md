@@ -1,3 +1,6 @@
+## 0.0.4
+* High constrast background under color colors
+
 ## 0.0.3
 * Okay better not color 3 digit numbers like they were hex
 
