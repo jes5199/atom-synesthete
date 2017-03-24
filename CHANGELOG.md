@@ -1,3 +1,6 @@
+## 0.0.6
+* bugfix: underscores are word characters again
+
 ## 0.0.5
 * Also color Greek unicode letters because why not. συναισθησία!
 
